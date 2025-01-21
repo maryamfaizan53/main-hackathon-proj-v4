@@ -1,7 +1,7 @@
 // /app/api/products/[slug]/route.ts
 import { NextResponse } from 'next/server'
-import { sanityClient } from "../../../../sanity/lib/client"
-import { singleProductBySlugQuery } from '../../../../sanity/queries'
+import { sanityClient } from "../../../sanity/lib/client"
+import { singleProductBySlugQuery } from '../../../sanity/queries'
 
 
 // // /app/api/products/[slug]/route.ts

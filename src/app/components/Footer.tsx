@@ -81,7 +81,7 @@ const Footer: React.FC = () => {
 
         {/* Bottom Section */}
         <div className="mt-8 text-center text-gray-600 text-sm">
-          <p>2024 https://github.com/samade747 @ www.linkedin.com/in/samaddeveloper All rights reserved</p>
+          <p> All rights reserved</p>
         </div>
       </div>
     </footer>
