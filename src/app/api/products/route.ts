@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server"
-import { sanityClient } from "../../../sanity/lib/client"
-import { allProductsQuery } from "../../../sanity/queries"
+import { sanityClient } from "../../sanity/lib/client"
+import { allProductsQuery } from "../../sanity/queries"
 
 export async function GET() {
   try {
